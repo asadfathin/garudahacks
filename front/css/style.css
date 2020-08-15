@@ -3,3 +3,42 @@
 body {
     background: #FFFFFF;
 }
+
+.img-nav {
+    margin-left: 100px;
+}
+
+.profile-nav {
+    margin-right: 100px;
+}
+
+.footer { 
+    background-color: #F8F8F8; 
+    padding-top: 80px; color: #F8F8F8; 
+    font-weight: 400; 
+    font-size: 17px; 
+}
+
+.footer-line { 
+    border-color: #F8F8F8; 
+}
+
+.footer-widget { 
+    padding-bottom: 50px; 
+}
+
+.footer-title { 
+    font-size: 24px; font-weight: 600; margin-bottom: 44px; color: #595959; 
+}
+
+.footer-widget ul li a { 
+    text-transform: capitalize; 
+    font-size: 17px; 
+    color: #9ea3a7; 
+    display: block; 
+    font-weight: 600; 
+}
+
+.footer-widget ul li a:hover { 
+    color: #424141; 
+}
